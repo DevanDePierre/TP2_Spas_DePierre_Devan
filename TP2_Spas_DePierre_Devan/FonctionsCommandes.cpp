@@ -11,4 +11,5 @@ void FonctionsCommandes::AddClientCorpo()
 	//IF  client existe...
 	//Erreur ou non
 	//Add dans deque. deque fait partie de client dispo pour les deux style de client.
+
 }
